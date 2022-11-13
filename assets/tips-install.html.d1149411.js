@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-d77fd49e","path":"/en_US/jailbreak/palera1n/include/tips-install.html","title":"","lang":"en_US","frontmatter":{},"excerpt":"","headers":[],"git":{"updatedTime":1664903841000,"contributors":[{"name":"Nebula","email":"me@itsnebula.net","commits":1}]},"filePathRelative":"en_US/jailbreak/palera1n/include/tips-install.md"}');export{e as data};
